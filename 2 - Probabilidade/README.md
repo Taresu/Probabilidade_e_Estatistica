@@ -21,10 +21,10 @@ OBS: Vamos representá-lo por Ω.
 ```
 
 #### Exemplos:
-- Lançamento de uma moeda: Ω = {cara, coroa}
-- Lançamento de um dado: Ω = {1,2,3,4,5,6}
-- Nº de chips defeituosos em uma linha de produção: Ω = {0,1,2,...,n} sendo n o nº máx de itens defeituosos
-- Tempo de reação de uma pomada anestésica: Ω = {t E IR | t >= 0}
+- Lançamento de uma moeda: Ω = {cara, coroa};
+- Lançamento de um dado: Ω = {1,2,3,4,5,6};
+- Nº de chips defeituosos em uma linha de produção: Ω = {0,1,2,...,n} sendo n o nº máx de itens defeituosos;
+- Tempo de reação de uma pomada anestésica: Ω = {t E IR | t >= 0}.
 
 ### **Evento**
 ```
@@ -32,17 +32,17 @@ Um subconjunto do espaço amostral Ω.
 ```
 
 ##### Exemplo: Sejam os seguintes eventos no lançamento de um dado
-##### A = {1,3,5}, B = {2,4,6}, C = {1,2}
+##### A = {1,3,5}, B = {2,4,6}, C = {1,2}.
 
 ###### O evento A ∩ B = Ø, é denominado [mutuamente excludente](https://pt.wikipedia.org/wiki/Eventos_mutuamente_exclusivos), isto é, a ocorrência de A implica a não ocorrência de B e vice versa.
-###### Podemos concluir, então, que A e B não possui intersecção
+###### Podemos concluir, então, que A e B não possui intersecção.
 
-###### O evento A ∪ B = Ω, ou seja, temos um evento certo, que são todas as possibilidades do dado
+###### O evento A ∪ B = Ω, ou seja, temos um evento certo, que são todas as possibilidades do dado.
 
 ###### **OBS:** 
 ```
-∪ (União) é equivalente ao operador lógico "ou", aumentando as possibilidades eventuais**
-∩ (Intersecção) é equivalente ao operador lógico "e", diminuindo as possibilidades eventuais**
+∪ (União) é equivalente ao operador lógico "ou", aumentando as possibilidades eventuais
+∩ (Intersecção) é equivalente ao operador lógico "e", diminuindo as possibilidades eventuais
 ```
 
 #### A forma de calcular a chance de um evento B qualquer pode ser definida por:
