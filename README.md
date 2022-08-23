@@ -11,7 +11,7 @@ A linguagem de programação R é uma linguagem dinâmica criada para computaç�
 
 ## Módulos & Checklist
 - [x] `1` - [Estatística Descritiva](https://drive.google.com/file/d/1PJlOF3m-pgSvqchr01gj2UT28XpaZFQf/view?usp=sharing) 
-- [ ] `2` - [Probabilidade](https://drive.google.com/file/d/1dp-tePkI379ojtdRrsAoLyrIrjB1YVnI/view?usp=sharing)
+- [x] `2` - [Probabilidade](https://drive.google.com/file/d/1dp-tePkI379ojtdRrsAoLyrIrjB1YVnI/view?usp=sharing)
   - [ ] `2.2` - [Teorema de Bayes](https://drive.google.com/file/d/1NWQ8fnHicWZ5MAEomZgaUJ_wHFpBf5Y8/view?usp=sharing)
 - [ ] `3` - [Variáveis Aleatórias](https://drive.google.com/file/d/1lNQ43EsU25zyKKij9CUYOVkYVAp9JSmh/view?usp=sharing)
 - [ ] `4` - [Distribuição Binomial e Poisson](https://drive.google.com/file/d/1z33E_Gj74j2dp4f7RwpoDvVx9JUEH78V/view?usp=sharing)
