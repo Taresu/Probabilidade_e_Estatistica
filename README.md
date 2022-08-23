@@ -3,6 +3,7 @@
 #### `Bacharelado` Sistemas de Informação (BSI)
 #### `Universidade` UTFPR - Universidade Tecnológica Federal do Paraná
 
+#### [Apostila Base do Curso](http://paginapessoal.utfpr.edu.br/luizledo/graduacao/apostilace003.pdf/view)
 #### [Palestra da Disciplina](https://drive.google.com/file/d/1DZGkfxROxXWJORTF-VJwVSCZQUlDGnt9/view?usp=sharing)
 
 Nesta matéria, nos enfoques e na abordagem dadas pelo Docente, a [Linguagem de Programação R](https://blog.betrybe.com/linguagem-de-programacao/linguagem-r-tudo-sobre/) é majoritariamente utilizada, com a finalidade da aprendizagem ativa (programação e análise de dados), junto com a aprendizagem passiva (referencial bibliográfico).
