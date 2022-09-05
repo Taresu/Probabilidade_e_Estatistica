@@ -3,14 +3,20 @@
 #### `Bacharelado` Sistemas de Informação (BSI)
 #### `Universidade` UTFPR - Universidade Tecnológica Federal do Paraná
 
-#### [Apostila Base do Curso](http://paginapessoal.utfpr.edu.br/luizledo/graduacao/apostilace003.pdf/view)
-#### [Palestra da Disciplina](https://drive.google.com/file/d/1DZGkfxROxXWJORTF-VJwVSCZQUlDGnt9/view?usp=sharing)
+_______________________________________________________________________________________________________________________________________________________________________
+
+#### 📕 [Apostila Base do Curso](http://paginapessoal.utfpr.edu.br/luizledo/graduacao/apostilace003.pdf/view)
+#### 🧑‍🏫 [Palestra da Disciplina](https://drive.google.com/file/d/1DZGkfxROxXWJORTF-VJwVSCZQUlDGnt9/view?usp=sharing)
 
 Nesta matéria, nos enfoques e na abordagem dadas pelo Docente, a [Linguagem de Programação R](https://blog.betrybe.com/linguagem-de-programacao/linguagem-r-tudo-sobre/) é majoritariamente utilizada, com a finalidade da aprendizagem ativa (programação e análise de dados), junto com a aprendizagem passiva (referencial bibliográfico).
 
+_______________________________________________________________________________________________________________________________________________________________________
+
+**Você já conhece a linguagem de programação R?** 🤔
+
 A linguagem de programação R é uma linguagem dinâmica criada para computação estatística e gráficos. R é comumente usado em análise estatística, computação científica, aprendizado de máquina e visualização de dados.
 
-## Módulos & Checklist
+## 🧮 Módulos & Checklist
 - [x] `1` - [Estatística Descritiva](https://drive.google.com/file/d/1PJlOF3m-pgSvqchr01gj2UT28XpaZFQf/view?usp=sharing) 
 - [x] `2` - [Probabilidade](https://drive.google.com/file/d/1dp-tePkI379ojtdRrsAoLyrIrjB1YVnI/view?usp=sharing)
   - [ ] `2.2` - [Teorema de Bayes](https://drive.google.com/file/d/1NWQ8fnHicWZ5MAEomZgaUJ_wHFpBf5Y8/view?usp=sharing)
