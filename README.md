@@ -30,7 +30,7 @@ A linguagem de programação R é uma linguagem dinâmica criada para computaç�
 - [ ] `9` - [Agrupamento Hierárquico](https://drive.google.com/file/d/1T8e2CQVSavqLI2o-lfINpItk7YjuaClw/view?usp=sharing)
 
 
-## Links interessantes
+## 🌐 Links interessantes
 
 - [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r)
 - [R e RStudio | Análise Real (analisereal.com)](https://analisereal.com/2015/01/20/r-e-rstudio-2/#:~:text=Coment%C3%A1rios%20nos%20scripts%20do%20R,fez%20quanto%20para%20seus%20colegas.)
