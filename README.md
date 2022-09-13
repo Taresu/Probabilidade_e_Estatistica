@@ -9,7 +9,7 @@ ________________________________________________________________________________
 #### 📕 [Apostila Base do Curso](http://paginapessoal.utfpr.edu.br/luizledo/graduacao/apostilace003.pdf/view)
 #### 🧑‍🏫 [Palestra da Disciplina](https://drive.google.com/file/d/1DZGkfxROxXWJORTF-VJwVSCZQUlDGnt9/view?usp=sharing)
 
-Nesta matéria, nos enfoques e na abordagem dadas pelo Docente, a [Linguagem de Programação R](https://blog.betrybe.com/linguagem-de-programacao/linguagem-r-tudo-sobre/) é majoritariamente utilizada, com a finalidade da aprendizagem ativa (programação e análise de dados), junto com a aprendizagem passiva (referencial bibliográfico).
+Nesta matéria, nos enfoques e na abordagem dadas pelo Docente, a [Linguagem de Programação R](https://blog.betrybe.com/linguagem-de-programacao/linguagem-r-tudo-sobre/) é majoritariamente utilizada, com a finalidade da aprendizagem ativa (exercícios, programação e análise de dados de forma dinâmica), junto com a aprendizagem passiva (vídeos e leitura do referencial bibliográfico).
 
 _______________________________________________________________________________________________________________________________________________________________________
 
