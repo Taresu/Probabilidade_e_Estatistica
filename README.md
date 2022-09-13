@@ -5,6 +5,7 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
+#### 🌐 [Página do Curso (com materiais)](http://paginapessoal.utfpr.edu.br/luizledo/graduacao)
 #### 📕 [Apostila Base do Curso](http://paginapessoal.utfpr.edu.br/luizledo/graduacao/apostilace003.pdf/view)
 #### 🧑‍🏫 [Palestra da Disciplina](https://drive.google.com/file/d/1DZGkfxROxXWJORTF-VJwVSCZQUlDGnt9/view?usp=sharing)
 
